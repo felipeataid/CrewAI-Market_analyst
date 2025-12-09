@@ -53,13 +53,13 @@ O notebook funciona como um **iniciante de análise**, trazendo clareza e estrut
 
 ## 🚀 Possíveis Expansões
 
-- Adicionar fontes de dados externas (APIs, datasets públicos, scraping)  
-- Criar versões automatizadas em PDF ou HTML  
-- Implementar visualizações interativas  
-- Integrar com agentes de IA para análises mais profundas  
+- Adicionar fontes de dados externas (APIs, datasets públicos, scraping)
+- Criar versões que façam o envio dos relatórios via e-mail ou até WhatsApp
+- Implementar visualizações interativas
 - Evoluir para uma pipeline totalmente automatizada
 
 ---
 
 ## 📄 Licença
 Este projeto pode ser utilizado e adaptado livremente.
+
